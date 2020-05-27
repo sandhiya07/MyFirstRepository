@@ -1,0 +1,21 @@
+last
+ uptime
+ whoami
+ echo $SHELL
+ top
+ yum install *sar*
+ sar
+ man sar
+ yum install sysstat
+ sar
+ sar 2 4
+ free -g
+ free -m
+ free -k
+ df -h
+ cat /etc/fstab
+ lsblk
+ history
+ man free
+free --help
+
